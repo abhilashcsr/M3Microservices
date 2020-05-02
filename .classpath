@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product_cart_service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product_cart_service/src/main/java"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product_cart_service/src/test/java"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product_catalog_service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product_catalog_service/src/main/java"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product_catalog_service/src/test/java"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product-MS/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product-MS/src/main/java"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product-MS/src/test/java"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product-price/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product-price/src/main/java"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product-price/src/test/java"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product-stock/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product-stock/src/main/java"/>
+	<classpathentry kind="src" path="Lab 1- Microservices basic/product-stock/src/test/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/discovery-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/discovery-server/src/main/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/discovery-server/src/test/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product_cart_service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product_cart_service/src/main/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product_cart_service/src/test/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product_catalog_service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product_catalog_service/src/main/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product_catalog_service/src/test/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product-MS/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product-MS/src/main/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product-MS/src/test/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product-price/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product-price/src/main/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product-price/src/test/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product-stock/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product-stock/src/main/java"/>
+	<classpathentry kind="src" path="Lab 2- Eureka  and Hystrix/product-stock/src/test/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/discovery-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/discovery-server/src/main/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/discovery-server/src/test/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product_cart_service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product_cart_service/src/main/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product_cart_service/src/test/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product_catalog_service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product_catalog_service/src/main/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product_catalog_service/src/test/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product-MS/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product-MS/src/main/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product-MS/src/test/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product-price/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product-price/src/main/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product-price/src/test/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product-stock/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product-stock/src/main/java"/>
+	<classpathentry kind="src" path="Lab 3- Swagger , Actuator , profiles , Logger/product-stock/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Lab 1- Microservices basic/product_cart_service/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
